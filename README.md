@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <p>A powerful desktop application for real-time CPU & GPU temperature monitoring</p>
-  <p>一款CPU & GPU 实时温度监控桌面应用</p>
+  <p>A powerful desktop application for real-time CPU & GPU temperature monitoring based on Tauri 2.0</p>
+  <p>一款CPU & GPU 实时温度监控桌面应用基于Tauri 2.0</p>
 </div>
 
 [English](#english) | [中文](#中文)
