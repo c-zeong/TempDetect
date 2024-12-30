@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>A cross-platform computer thermal testing software based on Tauri 2.0</p>
-  <p>基于 Tauri 2.0 的跨平台电脑散热测试软件</p>
+  <p>基于 Tauri 2.0 的跨平台桌面端散热测试软件</p>
 </div>
 
 [English](#english) | [中文](#中文)
