@@ -26,7 +26,7 @@ The application uses Rust to interface directly with macOS system APIs (IOKit an
 </div>
 
 ### Installation
-Download the latest DMG file from the [Releases](https://github.com/yourusername/tempdetect/releases) page.
+Download the latest DMG file from the [Releases](https://github.com/c-zeong/tempdetect/releases) page.
 
 ### Roadmap
 - [ ] Apple Silicon (M1/M2) support
@@ -55,7 +55,7 @@ TempDetect 是一款轻量级桌面应用，可实时监控 CPU 和 GPU 的温�
 </div>
 
 ### 安装
-从 [Releases](https://github.com/yourusername/tempdetect/releases) 页面下载最新的 DMG 文件。
+从 [Releases](https://github.com/c-zeong/tempdetect/releases) 页面下载最新的 DMG 文件。
 
 ### 开发计划
 - [ ] 支持 Apple Silicon (M1/M2) 芯片
