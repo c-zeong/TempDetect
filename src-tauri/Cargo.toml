@@ -1,8 +1,9 @@
 [package]
 name = "tempdetect"
-version = "0.1.0"
+version = "0.1.1"
 description = "A temperature detection application for CPU and GPU"
-authors = ["you"]
+authors = ["c-zeong"]
+repository = "https://github.com/c-zeong/tempdetect"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

@@ -9,8 +9,6 @@ lerna-debug.log*
 
 # Dependencies
 node_modules
-target/
-src-tauri/target/
 dist
 dist-ssr
 *.local
@@ -25,6 +23,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Rust
+/target/
+src-tauri/target/
+**/*.rs.bk
+Cargo.lock
 
 # Environment variables
 .env
