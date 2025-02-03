@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="images/icon.png" alt="TempDetect Logo" width="128" height="128">
+  <h1>TempDetect · 温度检测</h1>
+</div>
+
+<div align="center">
+  <p>基于 Tauri 2.0 的跨平台桌面端散热测试软件</p>
+</div>
+
+[English](https://github.com/c-zeong/TempDetect) | [中文](https://github.com/c-zeong/TempDetect/blob/main/README.zh-CN.md)
 ### 关于
 TempDetect 是一款轻量级桌面应用，可实时监控 CPU 和 GPU 的温度、使用率和风扇转速。使用 Tauri、Vue 3 和 Rust 构建，以最小的资源消耗提供准确的硬件信息。
 

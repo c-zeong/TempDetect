@@ -8,9 +8,8 @@
   <p>基于 Tauri 2.0 的跨平台桌面端散热测试软件</p>
 </div>
 
-[English](#english) | [中文](#中文)
+[English](https://github.com/c-zeong/TempDetect) | [中文](https://github.com/c-zeong/TempDetect/blob/main/README.zh-CN.md)
 
-## English
 
 ### About
 TempDetect is a lightweight desktop application that monitors your CPU and GPU temperatures, usage rates, and fan speeds in real-time. Built with Tauri, Vue 3, and Rust, it provides accurate hardware information with minimal resource usage.
